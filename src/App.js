@@ -127,7 +127,7 @@ function App() {
   const projects = [
     {
       title: 'SDETrack – Real-Time Company Metrics Dashboard',
-      description: 'SDETrack is a full-stack, real-time company insights dashboard developed during Inter IIT Tech Meet 2024–25. The platform enables users to log in via OAuth, search for companies, and visualize a rich set of calculated metrics like stock prices, market share, and diversity scores. It is built for scalability and data accuracy using a robust MERN stack, with real-time computations and secure 2FA login. The system introduces a custom 2-minute delay as per hackathon rules and supports historical data storage and visual comparison between companies.',
+      description: 'SDETrack is a full-stack, real-time company insights dashboard developed during Inter IIT Tech Meet 2024–25. It is built for scalability and data accuracy using a robust MERN stack, with real-time computations and secure 2FA login. The system supports historical data storage and visual comparison between companies.',
       tech: ['React', 'Node.js', 'MongoDB', 'Docker'],
       github: 'https://github.com/HarshShrivastava7/SDETrack',
       demo: 'https://sde-track.vercel.app/login'
